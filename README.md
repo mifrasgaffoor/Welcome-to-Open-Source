@@ -69,6 +69,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/mifrasgaffoor">
+                    <img src="https://avatars.githubusercontent.com/u/81522853?s=96&v=4" width="100px;" alt="Mifras Gaffoor"/>
+                    <br />
+                    <sub><b>Mifras Gaffoor</b></sub>
+                </a>
+            </td>
+              <td align="center">
                 <a href="https://www.vivekthakur.dev/">
                     <img src="https://avatars.githubusercontent.com/u/50275510?v=4" width="100px;" alt="Vivek Thakur"/>
                     <br />
